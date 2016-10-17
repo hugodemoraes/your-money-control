@@ -1,2 +1,2 @@
 # node-control-your-money
-A basic NodeJS Money Control system.
+A basic MEAN system - Money Control.

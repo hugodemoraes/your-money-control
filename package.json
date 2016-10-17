@@ -1,7 +1,7 @@
 {
-  "name"         : "node-time-attendance-system",
+  "name"         : "your-money-control",
   "version"      : "0.0.1",
-  "description"  : "Simple time attendance system application.",
+  "description"  : "A simple money control application using MongoDB - Express - AngularJS - NodeJS.",
   "main"         : "server.js",
   "author"       : "Hugo de Moraes",
   "dependencies" : {
